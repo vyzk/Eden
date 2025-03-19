@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Este é o mundo de Éden
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Éden é um mundo fantasioso onde a magia é a energia vital para a funcionalidade deste mundo
