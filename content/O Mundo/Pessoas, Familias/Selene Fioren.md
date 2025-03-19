@@ -1,2 +1,2 @@
 Esposa de [[Modrel Fioren]] 
-Mãe de [[]]
+Mãe de [[Nyra Fioren]]
